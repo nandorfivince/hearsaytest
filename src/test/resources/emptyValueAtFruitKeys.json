@@ -1,0 +1,20 @@
+{
+  "sortKeys": [
+    "fruits",
+    "numbers"
+  ],
+  "payload": {
+    "fruits": [],
+    "numbers": [
+      1333,
+      4,
+      2431,
+      7
+    ],
+    "colors": [
+      "green",
+      "blue",
+      "yellow"
+    ]
+  }
+}

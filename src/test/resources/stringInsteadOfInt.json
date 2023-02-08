@@ -1,0 +1,24 @@
+{
+  "sortKeys": [
+    "fruits",
+    "numbers"
+  ],
+  "payload": {
+    "fruits": [
+      "watermelon",
+      "apple",
+      "pineapple"
+    ],
+    "numbers": [
+      "string instead of int",
+      4,
+      2431,
+      7
+    ],
+    "colors": [
+      "green",
+      "blue",
+      "yellow"
+    ]
+  }
+}
